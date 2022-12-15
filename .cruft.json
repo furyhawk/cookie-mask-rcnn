@@ -1,0 +1,23 @@
+{
+  "template": "https://github.com/aimakerspace/ml-project-cookiecutter-gcp",
+  "commit": "73836832499fdc122fc085fa5c395d3cf6a0f29d",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "cookie mask rcnn",
+      "description": "cookie mask rcnn",
+      "repo_name": "cookie-mask-rcnn",
+      "src_package_name": "cookie_mask_rcnn",
+      "src_package_name_short": "cmr",
+      "gcp_project_id": "cvhub-312105",
+      "gcr_personal_subdir": "Yes",
+      "author_name": "teck",
+      "open_source_license": "MIT",
+      "_copy_without_render": [
+        "aisg-context/polyaxon/polyaxonfiles"
+      ],
+      "_template": "https://github.com/aimakerspace/ml-project-cookiecutter-gcp"
+    }
+  },
+  "directory": null
+}
